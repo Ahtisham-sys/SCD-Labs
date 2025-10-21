@@ -16,6 +16,8 @@ public class Lab1Java {
      */
     public static void main(String[] args) {
         int number = 7;
+        int number = 7;
+        int number = 7;
         
         System.out.println("Multiplication Table of 7:");
         System.out.println("-------------------------");
@@ -28,3 +30,4 @@ public class Lab1Java {
     }
     
 }
+
