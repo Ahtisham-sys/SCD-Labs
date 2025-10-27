@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package lab1.java;
+package lab1;
 
 /**
  *
  * @author lab2
  */
-public class Lab1Java {
+public class Lab1 {
 
     /**
      * @param args the command line arguments
@@ -28,4 +28,5 @@ public class Lab1Java {
     }
     
 }
+
 
